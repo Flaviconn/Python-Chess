@@ -1,0 +1,9 @@
+BR.png BN.png BB.png BQ.png BK.png BB.png BN.png BR.png 
+BP.png BP.png BP.png BP.png BP.png BP.png BP.png BP.png 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+. . . . . . . . 
+WP.png WP.png WP.png WP.png WP.png WP.png WP.png WP.png 
+WR.png WN.png WB.png WQ.png WK.png WB.png WN.png WR.png 
+1
